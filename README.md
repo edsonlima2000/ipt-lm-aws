@@ -1,5 +1,7 @@
 # Applied Machine Learning on AWS — Notebooks
 
+![Applied Machine Learning on AWS — Notebooks social preview](artwork/social-preview.jpg)
+
 Educational Jupyter notebooks covering Python foundations, tabular classification, and an AWS-oriented MNIST linear learner workflow.
 
 [Português](#português)
